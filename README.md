@@ -2,6 +2,4 @@
 
 Readme s.t. repo is not empty
 
-##
-
-Some more changes on other branch
+## Some more changes on other branch
